@@ -1,0 +1,138 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Om die gelykwaardigheid en geldigheid van verskillende voorstellings te bepaal</title>
+  <metadata>
+  <md:content-id>m21338</md:content-id><md:title>Om die gelykwaardigheid en geldigheid van verskillende voorstellings te bepaal</md:title>
+  <md:abstract/>
+  <md:uuid>5dd160bc-42ee-4e31-af00-0f239dca80bc</md:uuid>
+</metadata>
+
+<content>
+    <section id="id7034569">
+      <title>WISKUNDE</title>
+      <para id="para-id7034569">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id6679699">
+      <title>Vermenigvuldiging en Deling</title>
+      <para id="para-id6679699">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id11850100">
+      <title>Vermenigvuldiging</title>
+      <para id="para-id11850100">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id10536535">
+      <title>OPVOEDERS AFDELING</title>
+      <para id="para-id10536535">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id6015562">
+      <title>Memorandum</title>
+      <para id="para-id6015562">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id7361173">
+      <title>LEERDERS AFDELING</title>
+      <para id="para-id7361173">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id4134604">
+      <title>Inhoud</title>
+      <section id="id12330011">
+        <title>AKTIWITEIT: Om die gelykwaardigheid en geldigheid van verskillende voorstellings te bepaal [LU 2.6.3]</title>
+        <para id="para-id12330011">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id10016701">
+        <title>Om strategieë te gebruik om oplossings te kontroleer [LU 1.11]</title>
+        <para id="id10777118"/>
+        <para id="id11125747">In die vorige aktiwiteit het jul die geleentheid gehad om jul eie strategieë en tegnieke te gebruik om die probleme op te los. Uit jul terugvoering aan die klas het jul seker besef dat daar talle maniere is waarop ons die produk kan bereken. Kom ons kyk nou na ‘n paar ander voorbeelde.</para>
+        <para id="id12264292">1. Verdeel in groepe van drie. Lees die volgende probleem en bestudeer dan die verskillende oplossings.</para>
+        <para id="id10660056">Zwade sê sy gesin se munisipale rekening was die afgelope 18 maande gemiddeld R953,00 per maand. Watter bedrag het Zwade se pa altesaam aan die munisipaliteit betaal?</para>
+        <para id="id11938460">1.1 Ek moet 953 × 18 bereken:</para>
+        <para id="id10520277">Dus: (953 x 20) – (953 x 2)</para>
+        <para id="id10853493"> 953 x 20 = 953 x 10 x 2</para>
+        <para id="id10057468">   = 9 530 x 2</para>
+        <para id="id11567031">   = 19 060</para>
+        <para id="id10046064"> 953 x 2 = 1 906</para>
+        <para id="id10513049">Die antwoord is dus 19 060 – 1 906 = 17 154</para>
+        <para id="id11849106">1.2 953 x 18 = (953 x 10) + (953 x 8)</para>
+        <para id="id7878408">   = 9 530 + 7 634</para>
+        <para id="id12294929">   = 17 154</para>
+        <para id="id10608593">1.3 Ek moet 953 × 18 bereken en 18 = 10 + 5 + 1 + 2</para>
+        <table id="id11822859" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry>18</entry>
+                <entry>953</entry>
+              </row>
+              <row>
+                <entry>10</entry>
+                <entry>9 530</entry>
+              </row>
+              <row>
+                <entry>5</entry>
+                <entry>4 765</entry>
+              </row>
+              <row>
+                <entry>1</entry>
+                <entry>953</entry>
+              </row>
+              <row>
+                <entry>2</entry>
+                <entry>1 906</entry>
+              </row>
+              <row>
+                <entry>18</entry>
+                <entry>17 154</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id12254983">1.4 Ek bereken dit so:</para>
+        <para id="id12793510"> 953</para>
+        <para id="id12849900"> x 18</para>
+        <para id="id9835435"> 24 (8 x 3)</para>
+        <para id="id12812368"> 400  (8 x 50)</para>
+        <para id="id12260720"> 7 200 (8 x 900)</para>
+        <para id="id9835300"> 30 (10 x 3)</para>
+        <para id="id10258320"> 500 (10 x 50)</para>
+        <para id="id9943790">  9 000 (10 x 900)</para>
+        <para id="id12174991"> 17 154</para>
+        <para id="id11131417">1.5 My metode lyk so:</para>
+        <para id="id12515294"> 9 5 3</para>
+        <para id="id12483428"> x 1 8</para>
+        <para id="id9396297"> 7 6 2 4</para>
+        <para id="id11888366">  9 5 3 0</para>
+        <para id="id12135286"> 1 7 1 5 4</para>
+        <para id="id6001120">2. Verduidelik kortliks aan jou groeplede hoe elk van die metodes hierbo werk.</para>
+        <para id="id3063331">3. Watter metode verkies JY? ____________________________________</para>
+        <para id="id5869937">Hoekom? ____________________________________________________________</para>
+        <para id="id10679279">_____________________________________________________________________</para>
+        <para id="id12302160">_____________________________________________________________________</para>
+        <para id="id10779942">_____________________________________________________________________ </para>
+        <para id="id10932691"/>
+        <para id="id10833749"/>
+      </section>
+    </section>
+    <section id="id10075391">
+      <title>Assessering</title>
+      <para id="id10893809"><emphasis><emphasis effect="italics">Leeruitkomste 1:</emphasis></emphasis>Die leerder is in staat om getalle en die verwantskappe daarvan te herken, te beskryf en voor te stel, en om tydens probleemoplossing bevoeg en met selfvertroue te tel, te skat, te bereken en te kontroleer.</para>
+      <para id="id3368767"><emphasis><emphasis effect="italics">Assesseringstandaard 1.11:</emphasis></emphasis> Dit is duidelik wanneer die leerder ‘n verskeidenheid strategieë gebruik om oplossings te kontroleer en die redelikheid van oplossings te beoordeel.</para>
+      <para id="id8594319"><emphasis><emphasis effect="italics">Leeruitkomste 2:</emphasis></emphasis>Die leerder is in staat om patrone en verwantskappe te herken, te beskryf en voor te stel en probleme op te los deur algebraïese taal en vaardighede te gebruik.</para>
+      <para id="id10522636"><emphasis><emphasis effect="italics">Assesseringstandaard 2.6:</emphasis></emphasis> Dit is duidelik wanneer die leerder deur bespreking en vergelyking, die ekwivalensie van verskillende beskrywings van dieselfde verwantskap of reël wat soos volg voorgestel word bepaal:</para>
+      <para id="id10940040"><emphasis effect="bold">2.6.3:</emphasis> met getallesinne.</para>
+    </section>
+  </content>
+</document>

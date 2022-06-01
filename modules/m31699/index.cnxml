@@ -1,0 +1,162 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Om die frekwensie van werklike uitkomstes vir ‘n reeks probeerslae te tel</title>
+  <metadata>
+  <md:content-id>m31699</md:content-id><md:title>Om die frekwensie van werklike uitkomstes vir ‘n reeks probeerslae te tel</md:title>
+  <md:abstract/>
+  <md:uuid>80731a8e-a677-4825-93b9-c23ba2ec002b</md:uuid>
+</metadata>
+
+<content>
+    <section id="id8069374">
+      <title>WISKUNDE</title>
+      <para id="para-id8069374">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id8069382">
+      <title>Meetkunde, Datahantering en Waarskynlikheid</title>
+      <para id="para-id8069382">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id8069389">
+      <title>Waarskynlikheid</title>
+      <para id="para-id8069389">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id8069397">
+      <title>OPVOEDERS AFDELING</title>
+      <para id="para-id8069397">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id8069406">
+      <title>Memorandum </title>
+      <para id="para-id8069406">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id8069413">
+      <title>LEERDERS AFDELING</title>
+      <para id="para-id8069413">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id8069421">
+      <title>Inhoud</title>
+      <section id="id8069428">
+        <title>AKTIWITEIT: Om die frekwensie van werklike uitkomstes vir ‘n reeks probeerslae te tel [LU 5.10]</title>
+        <para id="id8114938">1. Werk saam met ‘n maat. Gooi ‘n dobbelsteen 20 keer en teken elke keer </para>
+        <para id="id8114948">dat dit op ‘n 4 val, aan.</para>
+        <para id="id8114953">Voltooi: aantal kere :  </para>
+        <para id="id8114962">2. Werk weer saam met ‘n maat. Skiet ‘n muntstuk 20 keer op en kyk hoe-</para>
+        <para id="id8114974">veel keer dit op “munt” val.</para>
+        <para id="id8114979">Voltooi: <emphasis effect="italics">aantal kere</emphasis> :  </para>
+        <para id="id8114998">Ons noem hierdie aantal kere wat jy hierbo gelys het, die <emphasis effect="bold">relatiewe frekwensie</emphasis>.</para>
+        <para id="id8115015">As die 4 in die voorbeeld hierbo nege keer verskyn het, sou ons die relatiewe frekwensie so bereken:</para>
+        <para id="id8115021">Relatiewe frekwensie = <emphasis effect="underline">aantal viere</emphasis></para>
+        <para id="id8115033">aantal gooie</para>
+        <equation id="id8115041">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow/>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mfrac>
+                        <m:mn>9</m:mn>
+                        <m:mtext>20</m:mtext>
+                      </m:mfrac>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{ {}= {  {9}  over  {"20"} } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </equation>
+        <para id="id8098778">3. Gooi nou jou dobbelsteen 30 keer en kyk hoeveel keer dit op 2 val. </para>
+        <para id="id8115112">Bereken die relatiewe frekwensie.</para>
+        <para id="id8115117"/>
+        <para id="id8115121"/>
+        <para id="id8115125"/>
+        <para id="id8115129">Tyd vir selfassessering</para>
+        <para id="id8115134">Dit is belangrik dat ons sal weet of jy die laaste deel van die werk goed verstaan. Lees die onderstaande kriteria. Evalueer jouself op ‘n skaal van 1 – 4 deur ‘n sirkel om die toepaslike syfer te trek.</para>
+        <table id="id8115148" summary="">
+          <tgroup cols="6">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <tbody>
+              <row>
+                <entry>Kriteria</entry>
+                <entry namest="c2" nameend="c5">1 = Glad nie.2 = Net ‘n bietjie (min).3 = Goed.4 = Uitstekend.</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>Ek kan die begrip “waarskynlikheid” verduidelik.</entry>
+                <entry>1</entry>
+                <entry>2</entry>
+                <entry>3</entry>
+                <entry>4</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>Ek kan verduidelik wat ‘n waarskynlikheid van een beteken.</entry>
+                <entry>1</entry>
+                <entry>2</entry>
+                <entry>3</entry>
+                <entry>4</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>Ek kan verduidelik wat ‘n waarskynlikheid van nul beteken.</entry>
+                <entry>1</entry>
+                <entry>1</entry>
+                <entry>1</entry>
+                <entry>1</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>Ek kan waarskynlikheid korrek bepaal.</entry>
+                <entry>1</entry>
+                <entry>2</entry>
+                <entry>3</entry>
+                <entry>4</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>Ek kan relatiewe frekwensie korrek bepaal.</entry>
+                <entry>1</entry>
+                <entry>2</entry>
+                <entry>3</entry>
+                <entry>4</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
+    </section>
+    <section id="id8115528">
+      <title>Assessering</title>
+      <para id="id8115534">Leeruitkomste 5: Die leerder is in staat om data te versamel, op te som, voor te stel en krities te ontleed om gevolgtrekkings en voorspellings te maak, en om toevallige variasies te interpreteer en te bepaal.</para>
+      <para id="id8115544">Assesseringstandaard 5.10: Dit is duidelik wanneer die leerder die frekwensie van werklike uitkomste vir ‘n reeks toetse tel.</para>
+    </section>
+  </content>
+</document>

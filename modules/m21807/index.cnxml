@@ -1,0 +1,99 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Om eenvoudige vrae te vra en databronne te identifiseer</title>
+  <metadata>
+  <md:content-id>m21807</md:content-id><md:title>Om eenvoudige vrae te vra en databronne te identifiseer</md:title>
+  <md:abstract/>
+  <md:uuid>ed6451ef-e4d1-4012-ab48-73b75c75b8a5</md:uuid>
+</metadata>
+
+<content>
+    <section id="id11981909">
+      <title>WISKUNDE</title>
+      <para id="para-id11981909">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id11885679">
+      <title>Meetkunde, Datahantering en Waarskynlikheid</title>
+      <para id="para-id11885679">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id11885686">
+      <title>Datahantering</title>
+      <para id="para-id11885686">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id11872927">
+      <title>OPVOEDERS AFDELING</title>
+      <para id="para-id11872927">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id11872934">
+      <title>Memorandum</title>
+      <para id="para-id11872934">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id11872035">
+      <title>LEERDERS AFDELING</title>
+      <para id="para-id11872035">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id9196329">
+      <title>Inhoud</title>
+      <section id="id9196335">
+        <title>AKTIWITEIT: Om eenvoudige vrae te vra en databronne te identifiseer [LU 5.1]</title>
+        <para id="para-id9196335">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id11988164">
+        <title>Om data te organiseer en op te teken [LU 5.4]</title>
+        <para id="id11979507">Vir hierdie aktiwiteit moet julle in groepe van drie verdeel. Kies een van die volgende onderwerpe. Kies dan een graad in die skool van wie jul die inligting kan versamel.</para>
+        <list id="id11979518" list-type="bulleted">
+          <item>Gunsteling sport.</item>
+          <item>Gunsteling TV-program.</item>
+          <item>Gunsteling leerarea op skool.</item>
+          <item>Gunsteling troeteldier.</item>
+          <item>Gunsteling naweek-tydverdryf.</item>
+        </list>
+        <para id="id11998289">Stel ‘n tabel op waarin julle die inligting kan opteken, bv.</para>
+        <table id="id11998295" summary="">
+          <tgroup cols="5">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <tbody>
+              <row>
+                <entry>Gunsteling sport</entry>
+                <entry>Hokkie</entry>
+                <entry>Netbal</entry>
+                <entry>Sokker</entry>
+                <entry>Rugby</entry>
+              </row>
+              <row>
+                <entry>Aantal leerders</entry>
+                <entry>_______</entry>
+                <entry>_______</entry>
+                <entry>_______</entry>
+                <entry>_______</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
+    </section>
+    <section id="id9796369">
+      <title>Assessering</title>
+      <para id="id11697155"><emphasis><emphasis effect="italics">Leeruitkomste 5:</emphasis></emphasis>Die leerder is in staat om data te versamel, op te som, voor te stel en krities te ontleed om gevolgtrekkings en voorspellings te maak, en om toevallige variasies te interpreteer en te bepaal.</para>
+      <para id="id11683506"><emphasis><emphasis effect="italics">Assesseringstandaard 5.1:</emphasis></emphasis> Dit is duidelik wanneer die leerder eenvoudige vrae stel oor sy/haar eie skool en gesinsomgewing, en gepaste databronne vind ten einde menseregte, sosiale, politieke, kulturele, omgewings- en ekonomiese kwessies in daardie omgewing die hoof te bied;</para>
+      <para id="id11907323"><emphasis><emphasis effect="italics">Assesseringstandaard 5.4:</emphasis></emphasis> Dit is duidelik wanneer die leerder data organiseer en aanteken deur gebruik te maak van tellings en tabelle.</para>
+    </section>
+  </content>
+</document>

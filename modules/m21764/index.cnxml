@@ -1,0 +1,112 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Om ongegroepeerde numeriese data te ondersoek en die modus en die mediaan te bepaal</title>
+  <metadata>
+  <md:content-id>m21764</md:content-id><md:title>Om ongegroepeerde numeriese data te ondersoek en die modus en die mediaan te bepaal</md:title>
+  <md:abstract/>
+  <md:uuid>292dc7d0-432b-4e01-97a1-f3807824c2af</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1163721462790">
+      <title>WISKUNDE</title>
+      <para id="para-id1163721462790">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id8821815">
+      <title>Meetkunde, Datahantering en Waarskynlikheid</title>
+      <para id="para-id8821815">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id8955055">
+      <title>Datahantering</title>
+      <para id="para-id8955055">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1163718383146">
+      <title>OPVOEDERS AFDELING</title>
+      <para id="para-id1163718383146">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1163712903127">
+      <title>Memorandum</title>
+      <para id="id1163719439228">1. 1.1 45</para>
+      <list id="id1163712514321" list-type="bulleted">
+        <item>45</item>
+        <item>41,5</item>
+      </list>
+      <para id="id1163721513951">2. 2.1 18 / 13</para>
+      <list id="id1163711601332" list-type="bulleted">
+        <item>6</item>
+      </list>
+      <para id="id1163712725211">3. 3.1 17 / 19</para>
+      <list id="id1163709584398" list-type="bulleted">
+        <item>38</item>
+      </list>
+      <para id="id8922933">4. 4.1 5,5</para>
+      <list id="id1163725149734" list-type="bulleted">
+        <item>13,7</item>
+      </list>
+      <para id="id1163719483232">5. 5.1 Klas / Vak</para>
+    </section>
+    <section id="id1163714081026">
+      <title>LEERDERS AFDELING</title>
+      <para id="para-id1163714081026">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id5883814">
+      <title>Inhoud</title>
+      <section id="id1163719650515">
+        <title>AKTIWITEIT: Om ongegroepeerde numeriese data te ondersoek en die modus en die mediaan te bepaal [LU 5.5]</title>
+        <para id="id5814778">Teen hierdie tyd het jy seker al besef dat data op ‘n wye verskeidenheid maniere voorgestel kan word. Kom ons kyk nou hoe data in ‘n skoolsituasie gebruik kan word:</para>
+        <para id="id6347190">Mnr. Muruvan se klas het ‘n Wiskundetoets van 50 punte geskryf en die resultate van die seuns in die klas het so gelyk:</para>
+        <para id="id1163719242183">47 ; 33 ; 45 ; 49 ; 38 ; 45 ; 42 ; 45 ; 30</para>
+        <para id="id1163725054865">In plaas daarvan om die data deur middel van ‘n grafiek voor te stel, het mnr. Muruvan die modus, mediaan en rekenkundige gemiddelde bereken.</para>
+        <para id="id4987967">HET JY GEWEET?</para>
+        <para id="id1163718455048"><emphasis effect="bold">Die modus</emphasis> van die data is <emphasis effect="bold">die waarde wat die meeste voorkom. </emphasis>Soms is daar meer as een modus.</para>
+        <para id="id4287673">Die <emphasis effect="bold">mediaan</emphasis> van die data is die <emphasis effect="bold">waarde wat in die middel lê wanneer die </emphasis>data van klein na groot gerangskik word. Indien daar ‘n <emphasis effect="bold">ewegetal</emphasis> waardes is, is die <emphasis effect="bold">mediaan</emphasis> die <emphasis effect="bold">gemiddeld van die middelste twee waardes.</emphasis></para>
+        <para id="id1163718431707"><emphasis effect="bold">Die rekenkundige gemiddelde</emphasis> kry jy as jy <emphasis effect="bold">al die waardes bymekaar tel</emphasis> en dit dan <emphasis effect="bold">deel deur die aantal waardes.</emphasis></para>
+        <para id="id1163719226240">1. Kom ons help mnr. Muruvan om die volgende te bepaal:</para>
+        <para id="id1163725933138">1.1 Die modus:</para>
+        <para id="id1163714697019">_____________________________________________________________________</para>
+        <para id="id4196581">_____________________________________________________________________</para>
+        <para id="id1163725296986">_____________________________________________________________________</para>
+        <para id="id1163718262268">1.2 Die mediaan:</para>
+        <para id="id1163721469371">_____________________________________________________________________</para>
+        <para id="id1163718583718">_____________________________________________________________________</para>
+        <para id="id1163712883273">_____________________________________________________________________</para>
+        <para id="id1163712979120">1.3 Die rekenkundige gemiddelde:</para>
+        <para id="id1163712900018">_____________________________________________________________________</para>
+        <para id="id1163724975676">_____________________________________________________________________</para>
+        <para id="id1163721719688">_____________________________________________________________________</para>
+        <para id="id1163715914182">2. Bepaal nou die <emphasis effect="bold">modus</emphasis> van:</para>
+        <para id="id9014059">2.1 18 ; 13 ; 15 ; 18 ; 19 ; 12 ; 13 ; 14</para>
+        <para id="id1163719220560">2.2 5 ; 6 ; 6 ; 7 ; 9 ; 8 ; 7 ; 6 ; 8 ; 9</para>
+        <para id="id1163713831850">3. Bepaal die <emphasis effect="bold">mediaan</emphasis> van:</para>
+        <para id="id7801862">3.1 17 ; 15 ; 23 ; 15 ; 19 ; 29</para>
+        <para id="id1163712677993">3.2 41 ; 29 ; 50 ; 33 ; 45 ; 27 ; 38</para>
+        <para id="id1163711516826">4. Bepaal die <emphasis effect="bold">rekenkundige gemiddelde</emphasis> van:</para>
+        <para id="id8181774"> 4.1 5 ; 7 ; 8 ; 3 ; 4 ; 9 ; 2 ; 6</para>
+        <para id="id1163711875695">4.2 11 ; 14 ; 16 ; 12 ; 13 ; 15 ; 15</para>
+        <para id="id1623919">5. Beantwoord die volgende vrae:</para>
+        <para id="id1163726089147"> 5.1 Watter rekenkundige gemiddelde bepaal jou opvoeder gereeld?</para>
+        <para id="id1163713923138">_____________________________________________________________________</para>
+        <para id="id5752152">_____________________________________________________________________</para>
+        <para id="id1163723007354">_____________________________________________________________________</para>
+        <para id="id8173277">5.2 Hoekom?</para>
+        <para id="id1163719219371">_____________________________________________________________________</para>
+        <para id="id1163711496085">_____________________________________________________________________</para>
+        <para id="id1163718406120">_____________________________________________________________________</para>
+      </section>
+    </section>
+    <section id="id1163721453883">
+      <title>Assessering</title>
+      <para id="id1163711407496"><emphasis><emphasis effect="italics">Leeruitkomste 5:</emphasis></emphasis>Die leerder is in staat om data te versamel, op te som, voor te stel en krities te ontleed om gevolgtrekkings en voorspellings te maak, en om toevallige variasies te interpreteer en te bepaal.</para>
+      <para id="id7471024"><emphasis><emphasis effect="italics">Assesseringstandaard 5.5:</emphasis></emphasis> Dit is duidelik wanneer die leerder ongegroepeerde numeriese data ondersoek om die telling (modus) wat die meeste voorkom, en die middelwaarde (mediaan) van die datastel te bepaal, om sodoende sentrale neigings te beskryf.</para>
+    </section>
+  </content>
+</document>

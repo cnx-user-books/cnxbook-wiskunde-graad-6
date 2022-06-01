@@ -1,0 +1,285 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Om probleme in konteks op te los</title>
+  <metadata>
+  <md:content-id>m21542</md:content-id><md:title>Om probleme in konteks op te los</md:title>
+  <md:abstract/>
+  <md:uuid>63e98d5e-4f6d-453c-90a8-06647ccf635a</md:uuid>
+</metadata>
+
+<content>
+    <section id="id19377842">
+      <title>WISKUNDE</title>
+      <para id="para-id19377842">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id19199298">
+      <title>Meting en Tyd</title>
+      <para id="para-id19199298">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id3215855">
+      <title>Lengte</title>
+      <para id="para-id3215855">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id19336558">
+      <title>OPVOEDERS AFDELING</title>
+      <para id="para-id19336558">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id3465429">
+      <title>Memorandum</title>
+      <para id="id15718390">1. Susan = 3,48</para>
+      <para id="id19371103"> Lala = 3,4</para>
+      <para id="id9512001"> Lauren = 3,2</para>
+      <para id="id17565963"> Anna = 3,12</para>
+      <para id="id19642005">2. Susan: (2,32 + 3,48 + 3,02 + 2,9) ÷ 4 = 2,93 (2,9 m)</para>
+      <para id="id12896425"> Lala: (3,2 + 3,04 + 2,86 + 3,4) ÷ 4 = 3,125 (3,1 m)</para>
+      <para id="id19153608"> Lauren: (2,88 + 2,96 + 3,06 + 3,2) ÷ 4 = 3,025 (3 m)</para>
+      <para id="id7119448"> Anna: (3,02 + 2,94 + 2,84 + 3,12) ÷ 4 = 2,98 (3 m)</para>
+      <para id="id14376484">3. (12,95 km + 14,73 km + 8,94 km + 13,8 km + 6,86 km) ÷ 5</para>
+      <para id="id6954868"> = 11,456 km (11,5 km)</para>
+      <para id="id13038760">4. 11,5 km</para>
+    </section>
+    <section id="id10129046">
+      <title>LEERDERS AFDELING</title>
+      <para id="para-id10129046">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id9625582">
+      <title>Inhoud</title>
+      <para id="para-id9625582">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id9907836">
+      <title>AKTIWITEIT: Om probleme in konteks op te los [LU 1.6.2]</title>
+      <para id="id16507995">Dit is belangrik dat ons gemiddeldes moet kan uitwerk, omdat ons dit baie in die alledaagse lewe gebruik. Dink maar aan die gemiddelde reënval per maand, die gemiddelde temperatuur vir jul dorp in ‘n sekere seisoen, jul klasgemiddeld, ens.</para>
+      <para id="id4750641">1. Kyk goed na die volgende en skryf dan die beste sprong van elke atleet neer:</para>
+      <para id="id9506750">By ‘n atletiekbyeenkoms het vier atlete aan die verspring vir dogters 0/13 deelgeneem. Elkeen het vier spronge voltooi.</para>
+      <table id="id4748318" summary="">
+        <tgroup cols="6">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <tbody>
+            <row>
+              <entry>Naam</entry>
+              <entry>
+                <emphasis effect="bold">Sprong 1 </emphasis>
+                <emphasis effect="italics">m</emphasis>
+              </entry>
+              <entry>
+                <emphasis effect="bold">Sprong 2</emphasis>
+                <emphasis effect="italics">m</emphasis>
+              </entry>
+              <entry>
+                <emphasis effect="bold">Sprong 3</emphasis>
+                <emphasis effect="italics">m</emphasis>
+              </entry>
+              <entry>
+                <emphasis effect="bold">Sprong 4</emphasis>
+                <emphasis effect="italics">m</emphasis>
+              </entry>
+              <entry>
+                <emphasis effect="bold">Beste Sprong</emphasis>
+                <emphasis effect="italics">m</emphasis>
+              </entry>
+            </row>
+            <row>
+              <entry>Susan</entry>
+              <entry>2,32</entry>
+              <entry>3,48</entry>
+              <entry>3,02</entry>
+              <entry>2,9</entry>
+              <entry>____________</entry>
+            </row>
+            <row>
+              <entry>Lala</entry>
+              <entry>3,2</entry>
+              <entry>3,04</entry>
+              <entry>2,86</entry>
+              <entry>3,4</entry>
+              <entry>____________</entry>
+            </row>
+            <row>
+              <entry>Lauren</entry>
+              <entry>2,88</entry>
+              <entry>2,96</entry>
+              <entry>3,06</entry>
+              <entry>3,2</entry>
+              <entry>____________</entry>
+            </row>
+            <row>
+              <entry>Anna</entry>
+              <entry>3,02</entry>
+              <entry>2,94</entry>
+              <entry>2,84</entry>
+              <entry>3,12</entry>
+              <entry>____________</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <list id="id14542449" list-type="bulleted">
+        <item>Deur na elkeen se beste sprong te kyk, kan ons vasstel wie gewen het.</item>
+        <item>Dit sê egter nie vir ons wie oor die algemeen (oor alvier spronge) die beste gevaar het nie.</item>
+        <item>Om <emphasis effect="bold">dit</emphasis> te kan bepaal moet ons kyk na die <emphasis effect="bold">gemiddelde</emphasis> van elkeen se spronge.</item>
+        <item>Hier volg die formule vir die berekening van die gemiddelde:</item>
+      </list>
+      <para id="id3646743">Gemiddelde afstand </para>
+      <figure id="id13725684">
+        <media id="id13725684_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics1-5c67.png" id="id13725684__onlineimage" height="55" width="194"/>
+        </media>
+      </figure>
+      <para id="id15947233">In Susan se geval sal dit soos volg bereken word:</para>
+      <figure id="id3436868">
+        <media id="id3436868_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics2-0913.png" id="id3436868__onlineimage" height="40" width="215"/>
+        </media>
+      </figure>
+      <para id="id3336974">= 2,93 <emphasis effect="italics">m</emphasis> (afgerond tot eerste desimaal: 2,9 <emphasis effect="italics">m</emphasis>)</para>
+      <para id="id16080341">2. Gebruik nou hierdie formule en bepaal, volgens die vier atlete se gemiddeldes, wie oor die algemeen die beste gevaar het in die verspring vir 0/13-dogters (afgerond tot die eerste desimaal).</para>
+      <para id="id3429159">_____________________________________________________________________</para>
+      <para id="id3499466">_____________________________________________________________________</para>
+      <para id="id9206638">_____________________________________________________________________</para>
+      <para id="id15761264">_____________________________________________________________________</para>
+      <para id="id9403335">_____________________________________________________________________</para>
+      <para id="id17054589">_____________________________________________________________________</para>
+      <para id="id15707809">_____________________________________________________________________</para>
+      <para id="id19494605">_____________________________________________________________________</para>
+      <para id="id3461200">3. Bereken die gemiddelde afstand wat Johan per dag draf, indien hy van Maandag tot Vrydag die volgende afstande geoefen het:</para>
+      <para id="id17906817">Ma. 12,95 km; Di. 14,73 km; Wo. 8,94 km; Do. 13,8 km; Vry. 6,86 km.</para>
+      <para id="id13237196">_____________________________________________________________________</para>
+      <para id="id13770196">_____________________________________________________________________</para>
+      <para id="id9233944">_____________________________________________________________________</para>
+      <para id="id17718820">_____________________________________________________________________</para>
+      <para id="id12985287">_____________________________________________________________________</para>
+      <para id="id3859879">_____________________________________________________________________</para>
+      <para id="id4955761">_____________________________________________________________________</para>
+      <para id="id15035450">_____________________________________________________________________</para>
+      <para id="id18528583">4. Rond jou antwoord af tot die eerste desimaal.</para>
+      <para id="id15968685">_____________________________________________________________________</para>
+      <para id="id14819912">TYD VIR SELFASSESSERING</para>
+      <para id="id19145789">In Leereenheid 1 het ons deeglik na sekere aspekte van meting gekyk. Voordat ons met Leereenheid 2 kan begin, moet ons eers weet of daar sekere haakplekke is, met ander woorde of daar iets is wat jy nog steeds nie verstaan nie. Wys vir ons hoe jy voel oor die werk wat afgehandel is deur die gesiggie wat waar is van jou, netjies in te kleur.</para>
+      <para id="id4937843">KRITERIA</para>
+      <table id="id3978827" summary="">
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry>Ek weet wat <emphasis effect="bold">omtrek</emphasis> beteken.</entry>
+              <entry>Glad nie</entry>
+              <entry>Redelik</entry>
+              <entry>Goed</entry>
+              <entry>Uitstekend</entry>
+            </row>
+            <row>
+              <entry>Ek kan ‘n formule vir die omtrek van ‘n reghoek neerskryf. (LU 4.58)</entry>
+              <entry>Glad nie</entry>
+              <entry>Redelik</entry>
+              <entry>Goed</entry>
+              <entry>Uitstekend</entry>
+            </row>
+            <row>
+              <entry>Ek kan die omtrek van die volgende figure bepaal:</entry>
+              <entry>Glad nie</entry>
+              <entry>Redelik</entry>
+              <entry>Goed</entry>
+              <entry>Uitstekend</entry>
+            </row>
+            <row>
+              <entry>Vierkant (LU 4.8)</entry>
+              <entry>Glad nie</entry>
+              <entry>Redelik</entry>
+              <entry>Goed</entry>
+              <entry>Uitstekend</entry>
+            </row>
+            <row>
+              <entry>Pentagoon (LU 4.8)</entry>
+              <entry>Glad nie</entry>
+              <entry>Redelik</entry>
+              <entry>Goed</entry>
+              <entry>Uitstekend</entry>
+            </row>
+            <row>
+              <entry>Heksagoon (LU 4.8)</entry>
+              <entry>Glad nie</entry>
+              <entry>Redelik</entry>
+              <entry>Goed</entry>
+              <entry>Uitstekend</entry>
+            </row>
+            <row>
+              <entry>Oktogoon (LU 4.8)</entry>
+              <entry>Glad nie</entry>
+              <entry>Redelik</entry>
+              <entry>Goed</entry>
+              <entry>Uitstekend</entry>
+            </row>
+            <row>
+              <entry>Ek kan die omtrek van ‘n onreëlmatige figuur bepaal. (LU 4.8)</entry>
+              <entry>Glad nie</entry>
+              <entry>Redelik</entry>
+              <entry>Goed</entry>
+              <entry>Uitstekend</entry>
+            </row>
+            <row>
+              <entry>Ek kan meter na millimeter herlei en andersom. (LU 4.5)</entry>
+              <entry>Glad nie</entry>
+              <entry>Redelik</entry>
+              <entry>Goed</entry>
+              <entry>Uitstekend</entry>
+            </row>
+            <row>
+              <entry>Ek kan meter na sentimeter herlei en andersom. (LU 4.5)</entry>
+              <entry>Glad nie</entry>
+              <entry>Redelik</entry>
+              <entry>Goed</entry>
+              <entry>Uitstekend</entry>
+            </row>
+            <row>
+              <entry>Ek kan kilometer na meter herlei en andersom. (LU 4.5)</entry>
+              <entry>Glad nie</entry>
+              <entry>Redelik</entry>
+              <entry>Goed</entry>
+              <entry>Uitstekend</entry>
+            </row>
+            <row>
+              <entry>Ek kan afstande volgens skaal bepaal. (LU 1.6)</entry>
+              <entry>Glad nie</entry>
+              <entry>Redelik</entry>
+              <entry>Goed</entry>
+              <entry>Uitstekend</entry>
+            </row>
+            <row>
+              <entry>Ek kan die <emphasis effect="bold">gemiddelde</emphasis> afstand bereken. (LU 1.6)</entry>
+              <entry>Glad nie</entry>
+              <entry>Redelik</entry>
+              <entry>Goed</entry>
+              <entry>Uitstekend</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id7333900">
+      <title>Assessering</title>
+      <para id="id14580111"><emphasis><emphasis effect="italics">Leeruitkomste 1:</emphasis></emphasis>Die leerder is in staat om getalle en die verwantskappe daarvan te herken, te beskryf en voor te stel, en om tydens probleemoplossing bevoeg en met selfvertroue te tel, te skat, te bereken en te kontroleer.</para>
+      <para id="id18645065"><emphasis><emphasis effect="italics">Assesseringstandaard 1.6:</emphasis></emphasis> Dit is duidelik wanneer die leerder probleme oplos in konteks, insluitend kontekste wat gebruik kan word om ‘n bewustheid van ander leerareas, asook van menseregte-, sosiale, ekonomiese en omgewingskwessies, te bevorder soos:</para>
+      <para id="id3845806"><emphasis effect="bold">1.6.2: </emphasis>meting in konteks van Natuurwetenskappe en Tegnologie.</para>
+    </section>
+  </content>
+</document>

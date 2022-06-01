@@ -1,0 +1,231 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Om ‘n reeks tegnieke te gebruik om berekeninge te doen</title>
+  <metadata>
+  <md:content-id>m21334</md:content-id><md:title>Om ‘n reeks tegnieke te gebruik om berekeninge te doen</md:title>
+  <md:abstract/>
+  <md:uuid>7af6cbb5-ae43-4b70-9caa-4b59719eca03</md:uuid>
+</metadata>
+
+<content>
+    <section id="id12477465">
+      <title>WISKUNDE</title>
+      <para id="para-id12477465">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id14236689">
+      <title>Vermenigvuldiging en Deling</title>
+      <para id="para-id14236689">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id12618109">
+      <title>Vermenigvuldiging</title>
+      <para id="para-id12618109">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id12670983">
+      <title>OPVOEDERS AFDELING</title>
+      <para id="para-id12670983">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id14198744">
+      <title>Memorandum</title>
+      <para id="id12667718">1. 150; 1 500; 15 000; 150 000;  1 500 000;  15 000 000; 1.500 000 E</para>
+      <para id="id12529064">2. Skerm te klein vir korrekte antwoord</para>
+      <para id="id12611786">3. Fout (Error)</para>
+      <para id="id14195697">4. 4.1 3</para>
+      <list id="id14206382" list-type="bulleted">
+        <item>5</item>
+        <item>7</item>
+      </list>
+      <para id="id14515584">5.1      </para>
+      <table id="id14260136" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>50</entry>
+            </row>
+            <row>
+              <entry>125</entry>
+            </row>
+            <row>
+              <entry>200</entry>
+            </row>
+            <row>
+              <entry>300</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id12620492">5.2</para>
+      <table id="id12699051" summary="">
+        <tgroup cols="3">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>200</entry>
+              <entry>_______</entry>
+              <entry>50</entry>
+            </row>
+            <row>
+              <entry>500</entry>
+              <entry>_______</entry>
+              <entry>125</entry>
+            </row>
+            <row>
+              <entry>800</entry>
+              <entry>_______</entry>
+              <entry>200</entry>
+            </row>
+            <row>
+              <entry>1 200</entry>
+              <entry>_______</entry>
+              <entry>300</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id14258727">6. Antwoorde is dieselfde</para>
+    </section>
+    <section id="id12645292">
+      <title>LEERDERS AFDELING</title>
+      <para id="para-id12645292">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id12621009">
+      <title>Inhoud</title>
+      <section id="id4848207">
+        <title>AKTIWITEIT: Om ‘n reeks tegnieke te gebruik om berekeninge te doen [LU 1.10.5]</title>
+        <para id="para-id4848207">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id12608574">
+        <title>Om uitvoerwaardes vir gegewe invoer-waardes te bepaal [LU 2.3.1, LU 2.3.3]</title>
+        <para id="id14264787">Kon jy verduidelik hoe om die sakrekenaar te programmeer? Indien nie, vra ‘n maat om jou te help. As jy verstaan hoe dit werk, beantwoord die volgende vrae:</para>
+        <para id="id12647077">1. Sleutel in: 10 x 15 = = = =</para>
+        <para id="id12617460">Skryf elke keer jou antwoorde neer: ______________________________________</para>
+        <para id="id12601825">____________________________________________________________________</para>
+        <para id="id9647388"/>
+        <para id="id14237399">2. Waarom sê jou sakrekenaar uiteindelik 15 000 000 E? _________________</para>
+        <para id="id12556264">_____________________________________________________________________</para>
+        <para id="id12603348"/>
+        <para id="id12688312">3. Waarvoor staan die E? ________________________________________</para>
+        <para id="id14266881">4. Voltooi die volgende:</para>
+        <para id="id12654960">4.1 346 x 1 000 = 346 x 10o ___________________________________</para>
+        <para id="id12694501">4.2 346 x 100 000 = 346 x 10o _________________________________</para>
+        <para id="id12496244">4.2 346 x 10 000 000 = 346 x 10o _______________________________</para>
+        <para id="id9648479">5. Voltooi die volgende tabelle:</para>
+        <table id="id14181021" summary="">
+          <tgroup cols="3">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <tbody>
+              <row>
+                <entry>5.1</entry>
+                <entry>1 × 25</entry>
+                <entry>25</entry>
+              </row>
+              <row>
+                <entry/>
+                <entry>2 × 25</entry>
+                <entry>_____</entry>
+              </row>
+              <row>
+                <entry/>
+                <entry>5 × 25</entry>
+                <entry>_____</entry>
+              </row>
+              <row>
+                <entry/>
+                <entry>8 × 25</entry>
+                <entry>_____</entry>
+              </row>
+              <row>
+                <entry/>
+                <entry>12 × 25</entry>
+                <entry>_____</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <table id="id10912719" summary="">
+          <tgroup cols="5">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <tbody>
+              <row>
+                <entry>5.2</entry>
+                <entry>1 × 100</entry>
+                <entry>100</entry>
+                <entry>÷4</entry>
+                <entry>25</entry>
+              </row>
+              <row>
+                <entry/>
+                <entry>2 × 100</entry>
+                <entry>_____</entry>
+                <entry>÷4</entry>
+                <entry>_____</entry>
+              </row>
+              <row>
+                <entry/>
+                <entry>5 × 100</entry>
+                <entry>_____</entry>
+                <entry>÷4</entry>
+                <entry>_____</entry>
+              </row>
+              <row>
+                <entry/>
+                <entry>8 × 100</entry>
+                <entry>_____</entry>
+                <entry>÷4</entry>
+                <entry>_____</entry>
+              </row>
+              <row>
+                <entry/>
+                <entry>12 × 100</entry>
+                <entry>_____</entry>
+                <entry>÷4</entry>
+                <entry>_____</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id12662832">6. Wat let jy op as jy na die antwoorde van hierdie twee tabelle kyk?</para>
+        <para id="id14172831">_____________________________________________________________________</para>
+        <para id="id12649844">_____________________________________________________________________</para>
+        <para id="id12672110">_____________________________________________________________________</para>
+        <para id="id3427090">_____________________________________________________________________</para>
+      </section>
+    </section>
+    <section id="id14469443">
+      <title>Assessering</title>
+      <para id="id12696848"><emphasis><emphasis effect="italics">Leeruitkomste 1:</emphasis></emphasis>Die leerder is in staat om getalle en die verwantskappe daarvan te herken, te beskryf en voor te stel, en om tydens probleemoplossing bevoeg en met selfvertroue te tel, te skat, te bereken en te kontroleer.</para>
+      <para id="id14257762"><emphasis><emphasis effect="italics">Assesseringstandaard 1.10:</emphasis></emphasis> Dit is duidelik wanneer die leerder  ‘n verskeidenheid tegnieke gebruik om sowel skriftelike as hoofberekeninge met heelgetalle te doen, insluitend:</para>
+      <para id="id12936468"><emphasis effect="bold">1.10.5:</emphasis> gebruik van ‘n sakrekenaar;</para>
+      <para id="id10595006"><emphasis><emphasis effect="italics">Leeruitkomste 2:</emphasis></emphasis>Die leerder is in staat om patrone en verwantskappe te herken, te beskryf en voor te stel en probleme op te los deur algebraïese taal en vaardighede te gebruik.</para>
+      <para id="id12685073"><emphasis><emphasis effect="italics">Assesseringstandaard 2.3:</emphasis></emphasis> Dit is duidelik wanneer die leerder uitsetwaardes bepaal vir gegewe insetwaardes deur gebruik te maak van:</para>
+      <para id="id14238373"><emphasis effect="bold">2.3.1:</emphasis> woordelikse beskrywings.</para>
+    </section>
+  </content>
+</document>

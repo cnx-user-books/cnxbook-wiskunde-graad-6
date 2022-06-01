@@ -1,0 +1,164 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Om die gelykwaardigheid en geldigheid van verskillende voorstellings te bepaal</title>
+  <metadata>
+  <md:content-id>m21240</md:content-id><md:title>Om die gelykwaardigheid en geldigheid van verskillende voorstellings te bepaal</md:title>
+  <md:abstract/>
+  <md:uuid>8a85cc07-b007-4c36-992b-96c11ad85b3b</md:uuid>
+</metadata>
+
+<content>
+    <section id="id16844294">
+      <title>WISKUNDE</title>
+      <para id="para-id16844294">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id18844936">
+      <title>Getalbegrip, Optelling en Aftrekking</title>
+      <para id="para-id18844936">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id18128570">
+      <title>Aftrekking</title>
+      <para id="para-id18128570">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id17850739">
+      <title>OPVOEDERS AFDELING</title>
+      <para id="para-id17850739">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id17632051">
+      <title>Memorandum</title>
+      <para id="id17866627">1.1 378 767</para>
+      <para id="id16499996">1.2 366 269</para>
+      <para id="id18851813">1.3 613 751</para>
+    </section>
+    <section id="id18311804">
+      <title>LEERDERS AFDELING</title>
+      <para id="para-id18311804">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id11694434">
+      <title>Inhoud</title>
+      <section id="id17852296">
+        <title>AKTIWITEIT: Om die gelykwaardigheid en geldigheid van verskillende voorstellings te bepaal [LU 2.6.3]</title>
+        <para id="para-id17852296">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id5962497">
+        <title>Om strategieë te gebruik om oplossings te kontroleer [LU 1.11]</title>
+        <para id="id18390561"/>
+        <para id="id5402751">1. In die vorige aktiwiteit het julle sekerlik ‘n verskeidenheid van metodes gesien. Kom ons kyk na nog metodes om die verskil te bereken. Verdeel in groepe van drie. Lees die volgende probleem goed deur. Jou opvoeder sal julle groep nommer en sê na watter oplossing julle groep moet kyk. Bespreek dit en verduidelik dan vir die res van die klas hoe die antwoord bereken is:</para>
+        <para id="id18875685">As die aftrektal 631 524 is en die verskil 254 637, wat is die aftrekker?</para>
+        <para id="id17648027">1.1 Ek trek af deur <emphasis effect="bold">terug te tel.</emphasis></para>
+        <para id="id18565128">631 524 – 254 637</para>
+        <para id="id16478845"> 631 524 – 200 000</para>
+        <list id="id18560408" list-type="bulleted">
+          <item>431 524 – 50 000</item>
+          <item>381 524 – 4 000</item>
+          <item>77 524 – 600</item>
+          <item>376 924 – 30</item>
+          <item>376 894 - 7</item>
+        </list>
+        <para id="id5090958">= 376 887</para>
+        <para id="id16751970">Die aftrekker is 376 887.</para>
+        <para id="id17631994">1.2 Ek gebruik die <emphasis effect="bold">kompensasiewet vir aftrekking.</emphasis></para>
+        <para id="id16954926">631 524 – 254 637</para>
+        <para id="id4324344">+ 363 + 363</para>
+        <list id="id18864211" list-type="bulleted">
+          <item>631 887 – 255 000</item>
+        </list>
+        <para id="id17251963">+ 5 000 + 5 000</para>
+        <list id="id13847262" list-type="bulleted">
+          <item>636 887 – 260 000</item>
+        </list>
+        <para id="id3451242">376 887</para>
+        <list id="id5439109" list-type="bulleted">
+          <item>Ek <emphasis effect="bold">werk met negatiewe getalle </emphasis>en skryf dit so:</item>
+        </list>
+        <para id="id3235754">
+          <table id="id4481118" summary="">
+            <tgroup cols="2">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <tbody>
+                <row>
+                  <entry>631 524</entry>
+                  <entry/>
+                </row>
+                <row>
+                  <entry>254 637</entry>
+                  <entry/>
+                </row>
+                <row>
+                  <entry>-3</entry>
+                  <entry>(4 – 7)</entry>
+                </row>
+                <row>
+                  <entry>-10</entry>
+                  <entry>(20 – 30)</entry>
+                </row>
+                <row>
+                  <entry>-100</entry>
+                  <entry>(500 – 600)</entry>
+                </row>
+                <row>
+                  <entry>-3 000</entry>
+                  <entry>(1 000 – 4 000)</entry>
+                </row>
+                <row>
+                  <entry>-20 000</entry>
+                  <entry>(30 000 – 50 000)</entry>
+                </row>
+                <row>
+                  <entry>400 000</entry>
+                  <entry>(600 000 – 200 000)</entry>
+                </row>
+                <row>
+                  <entry>376 887</entry>
+                  <entry>(400 000 – 20 000 – 3 000 – 100 – 10 – 3)</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+        </para>
+        <para id="id18651390">1.4 ’n Baie kort manier om die aftrekker te bereken, is:</para>
+        <para id="id18838518">  5 12 10 14 11 14</para>
+        <para id="id18244184">  6 3 1 5 2 4</para>
+        <para id="id16816552"> - 2 5 4 6 3 7</para>
+        <para id="id13228657">
+          <emphasis effect="bold">3 7 6 8 8 7</emphasis>
+        </para>
+        <para id="id18268268">1.5. Kan julle groep aan ’n ander metode dink om die antwoord te bereken?</para>
+        <para id="id17613731">_____________________________________________________________________</para>
+        <para id="id15196304">_____________________________________________________________________</para>
+        <para id="id17795119">_____________________________________________________________________</para>
+        <para id="id16503222">_____________________________________________________________________</para>
+        <para id="id16830022">_____________________________________________________________________</para>
+        <para id="id16846440">_____________________________________________________________________</para>
+        <para id="id18813304">2. Watter een van die bogenoemde metodes verkies JY?</para>
+        <para id="id17895543">_____________________________________________________________________</para>
+        <para id="id17895547">_____________________________________________________________________</para>
+        <para id="id19818478"> Hoekom? </para>
+        <para id="id8747979">_____________________________________________________________________</para>
+        <para id="id12608100">_____________________________________________________________________</para>
+        <para id="id18024999">_____________________________________________________________________</para>
+        <para id="id18025004">_____________________________________________________________________</para>
+      </section>
+    </section>
+    <section id="id18188635">
+      <title>Assessering</title>
+      <para id="id10435347"><emphasis><emphasis effect="italics">Leeruitkomste 1:</emphasis></emphasis>Die leerder is in staat om getalle en hul verwantskappe te herken, te beskryf en voor te stel. Hulle kan ook met bekwaamheid en vertroue tel, skat, bereken en kontroleer tydens die oplos van probleme.</para>
+      <para id="id19014506"><emphasis><emphasis effect="italics">Assesseringstandaard 1.11:</emphasis></emphasis> Dit is duidelik wanneer die leerder ‘n verskeidenheid strategieë gebruik om oplossings te kontroleer en die redelikheid van oplossings te beoordeel.</para>
+      <para id="id13214473"><emphasis><emphasis effect="italics">Leeruitkomste 2:</emphasis></emphasis>Die leerder is in staat om patrone en verwantskappe te herken, te beskryf en voor te stel en probleme op te los deur algebraïese taal en vaardighede te gebruik.</para>
+      <para id="id16478356"><emphasis><emphasis effect="italics">Assesseringstandaard 2.6:</emphasis></emphasis> Dit is duidelik wanneer die leerder deur bespreking en vergelyking, die ekwivalensie van verskillende beskrywings van dieselfde verwantskap of reël wat soos volg voorgestel word, bepaal:</para>
+      <para id="id18255600"><emphasis effect="bold">2.6.3: </emphasis>met getalsinne.</para>
+    </section>
+  </content>
+</document>

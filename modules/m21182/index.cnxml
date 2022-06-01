@@ -1,0 +1,118 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Om getalle te herken om hulle te vergelyk</title>
+  <metadata>
+  <md:content-id>m21182</md:content-id><md:title>Om getalle te herken om hulle te vergelyk</md:title>
+  <md:abstract/>
+  <md:uuid>5949703a-891a-49ed-8545-5ff7f5cdd311</md:uuid>
+</metadata>
+
+<content>
+    <section id="id4549213">
+      <title>WISKUNDE</title>
+      <para id="para-id4549213">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id3616097">
+      <title>Getalbegrip, Optelling en Aftrekking</title>
+      <para id="para-id3616097">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id13198502">
+      <title>Getalbegrip</title>
+      <para id="para-id13198502">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id10084626">
+      <title>OPVOEDERS AFDELING</title>
+      <para id="para-id10084626">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id3307457">
+      <title>Memorandum</title>
+      <para id="id5741203">1. Appelfontein</para>
+      <para id="id15084264">2. Radysland</para>
+      <para id="id17079975">3. Lemoenburg</para>
+      <para id="id3155481">4. Kersieville</para>
+      <para id="id4647232">5. Perskestad</para>
+    </section>
+    <section id="id23199665">
+      <title>LEERDERS AFDELING</title>
+      <section id="id16836894">
+        <title>Inhoud</title>
+        <para id="para-id16836894">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id23404889">
+        <title>AKTIWITEIT: Om getalle te herken om hulle te vergelyk [LU 1.3.1]</title>
+        <para id="id4534067">1. Lees eers die volgende getalle hardop vir ‘n maat. Rangskik dan die dorpe van GROOT na klein:</para>
+        <table id="id18555859" summary="">
+          <tgroup cols="3">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <tbody>
+              <row>
+                <entry>DORP</entry>
+                <entry>BEVOLKING</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>Kersieville</entry>
+                <entry>7 146 086</entry>
+                <entry>1. _________________________</entry>
+              </row>
+              <row>
+                <entry>Appelfontein</entry>
+                <entry>11 086 413</entry>
+                <entry>2. _________________________</entry>
+              </row>
+              <row>
+                <entry>Radysland</entry>
+                <entry>11 006 412</entry>
+                <entry>3. _________________________</entry>
+              </row>
+              <row>
+                <entry>Perskestad</entry>
+                <entry>3 159 886</entry>
+                <entry>4. _________________________</entry>
+              </row>
+              <row>
+                <entry>Lemoenburg</entry>
+                <entry>7 146 213</entry>
+                <entry>5. _________________________</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
+      <section id="id5782084">
+        <title>HET JY GEWEET?</title>
+        <para id="id10016973">1 000 miljoen is ’n MILJARD!</para>
+      </section>
+      <section id="id23416237">
+        <title>HET JY OOK GEWEET?</title>
+        <para id="id10048792">Ons kan 10 ook skryf as 10<sup>1</sup>. </para>
+        <para id="id20834694">Ons lees: 10 tot die mag 1</para>
+        <para id="id13792183">Dit beteken: 10 × 1 = 10</para>
+        <para id="id20900588">10 x 1 = 10</para>
+        <para id="id4474629">102 = 10 tot die mag 2</para>
+        <para id="id17266759">= 10 x 10 = 100</para>
+        <para id="id21310164">103 = 10 tot die mag 3</para>
+        <para id="id19095730">= 10 x 10 x 10 = 1 000</para>
+        <para id="id17511605">104 = 10 tot die mag 4</para>
+        <para id="id5724201">= 10 x 10 x 10 x 10 = 10 000</para>
+      </section>
+    </section>
+    <section id="id8488976">
+      <title>Assessering</title>
+      <para id="id11672551"><emphasis><emphasis effect="italics">Leeruitkomste 1:</emphasis></emphasis>Die leerder is in staat om getalle en hul verwantskappe te herken, te beskryf en voor te stel. Hulle kan ook met bekwaamheid en vertroue tel, skat, bereken en kontroleer tydens die oplos van probleme.</para>
+      <para id="id3167557"><emphasis><emphasis effect="italics">Assesseringstandaard 1.3:</emphasis></emphasis> Dit is duidelik wanneer die leerder die volgende ware getalle herken, klassifiseer en voorstel om hulle te beskryf en te vergelyk</para>
+      <para id="id3101097"><emphasis effect="bold">1.3.1:</emphasis> heelgetalle tot minstens 9-syfergetalle.</para>
+    </section>
+  </content>
+</document>

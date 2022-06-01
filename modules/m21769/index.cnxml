@@ -1,0 +1,142 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Om eenvoudige tabelle te gebruik om data in te samel en vrae te beantwoord</title>
+  <metadata>
+  <md:content-id>m21769</md:content-id><md:title>Om eenvoudige tabelle te gebruik om data in te samel en vrae te beantwoord</md:title>
+  <md:abstract/>
+  <md:uuid>c6dee402-b75c-4875-b180-fa44c9297bb4</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1169191718798">
+      <title>WISKUNDE</title>
+      <para id="para-id1169191718798">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1169201028495">
+      <title>Meetkunde, Datahantering en Waarskynlikheid</title>
+      <para id="para-id1169201028495">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1169185270895">
+      <title>Datahantering</title>
+      <para id="para-id1169185270895">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1169185225152">
+      <title>OPVOEDERS AFDELING</title>
+      <para id="para-id1169185225152">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1169191414470">
+      <title>Memorandum</title>
+      <para id="para-id1169191414470">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1169194486756">
+      <title>LEERDERS AFDELING</title>
+      <para id="para-id1169194486756">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1169191421630">
+      <title>Inhoud</title>
+      <section id="id1169201056654">
+        <title>AKTIWITEIT: Om eenvoudige tabelle te gebruik om data in te samel en vrae te beantwoord [LU 5.2]</title>
+        <para id="para-id1169201056654">
+          <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id1169194557494">
+        <title>Om data te organiseer en op te teken [LU 5.4]</title>
+        <para id="id1169200943402">1. Kom ons maak ‘n opname van die resultate wat die klas met die hoofrekentoets behaal het. Voltooi die volgende eenvoudige tabel:</para>
+        <table id="id1169207998974" summary="">
+          <tgroup cols="17">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <colspec colnum="8" colname="c8"/>
+            <colspec colnum="9" colname="c9"/>
+            <colspec colnum="10" colname="c10"/>
+            <colspec colnum="11" colname="c11"/>
+            <colspec colnum="12" colname="c12"/>
+            <colspec colnum="13" colname="c13"/>
+            <colspec colnum="14" colname="c14"/>
+            <colspec colnum="15" colname="c15"/>
+            <colspec colnum="16" colname="c16"/>
+            <colspec colnum="17" colname="c17"/>
+            <tbody>
+              <row>
+                <entry>Aantal vrae korrek</entry>
+                <entry>1</entry>
+                <entry>2</entry>
+                <entry>3</entry>
+                <entry>4</entry>
+                <entry>5</entry>
+                <entry>6</entry>
+                <entry>7</entry>
+                <entry>8</entry>
+                <entry>9</entry>
+                <entry>10</entry>
+                <entry>11</entry>
+                <entry>12</entry>
+                <entry>13</entry>
+                <entry>14</entry>
+                <entry>15</entry>
+                <entry>1</entry>
+              </row>
+              <row>
+                <entry>Aantal leerders</entry>
+                <entry>__</entry>
+                <entry>__</entry>
+                <entry>__</entry>
+                <entry>__</entry>
+                <entry>__</entry>
+                <entry>__</entry>
+                <entry>__</entry>
+                <entry>__</entry>
+                <entry>__</entry>
+                <entry>__</entry>
+                <entry>__</entry>
+                <entry>__</entry>
+                <entry>__</entry>
+                <entry>__</entry>
+                <entry>__</entry>
+                <entry>__</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id1169206273867">2. Beantwoord nou die volgende vrae na aanleiding van jou tabel hierbo:</para>
+        <para id="id1169191560233">2.1 Hoeveel leerders het die hoofrekentoets geskryf? ______________________</para>
+        <para id="id1169185361182">2.2 Hoeveel leerders het volpunte? ____________________________________</para>
+        <para id="id1169188499781">2.3 Hoeveel leerders het net 8 vrae korrek beantwoord? ____________________</para>
+        <para id="id1169185196684">2.4 Hoeveel vrae het die meeste leerders korrek beantwoord? _______________</para>
+        <para id="id1169191572938">2.5 Was dit ‘n maklike hoofrekentoets? _________________________________</para>
+        <para id="id1169183122844"> Motiveer jou antwoord. ___________________________________________</para>
+        <para id="id1169197329854">_____________________________________________________________________</para>
+        <para id="id1169188449824">KLASBESPREKING</para>
+        <para id="id1169188485854">Gesels eers oor die volgende en kyk of jul antwoorde kan kry.</para>
+        <para id="id1169185251604">1. Waarom, dink julle, is dit vir jul skoolhoof belangrik om te weet hoeveel</para>
+        <para id="id1169191567194"> leerders daar volgende jaar in elke klas gaan wees?</para>
+        <para id="id1169185366042">2. Waarom is dit belangrik om te weet hoeveel mense daar in ‘n </para>
+        <para id="id1169188103939">sekere dorp woon?</para>
+        <para id="id1169189030273">3. Hoe kan bogenoemde inligting bekom word?</para>
+      </section>
+    </section>
+    <section id="id1169191434494">
+      <title>Assessering</title>
+      <para id="id1169193302522"><emphasis><emphasis effect="italics">Leeruitkomste 5:</emphasis></emphasis>Die leerder is in staat om data te versamel, op te som, voor te stel en krities te ontleed om gevolgtrekkings en voorspellings te maak, en om toevallige variasies te interpreteer en te bepaal.</para>
+      <para id="id1169191620745"><emphasis><emphasis effect="italics">Assesseringstandaard 5.2:</emphasis></emphasis> Dit is duidelik wanneer die leerder eenvoudige dataversamelingsvelle (wat tellings vereis) en eenvoudige vraelyste (met ja/nee tipe antwoorde) gebruik om data te versamel (alleen en/of as ‘n lid van ‘n groep of span) ten einde vrae te beantwoord wat deur die onderwyser, self of die groep gevra word;</para>
+      <para id="id1169194644997"><emphasis><emphasis effect="italics">Assesseringstandaard 5.4:</emphasis></emphasis> Dit is duidelik wanneer die leerder data organiseer en aanteken deur gebruik te maak van tellings en tabelle.</para>
+    </section>
+  </content>
+</document>

@@ -1,0 +1,140 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Om hoofrekene te kan doen</title>
+  <metadata>
+  <md:content-id>m21177</md:content-id><md:title>Om hoofrekene te kan doen</md:title>
+  <md:abstract/>
+  <md:uuid>ae376cce-d553-45a5-bb88-e4c62acaff7b</md:uuid>
+</metadata>
+
+<content>
+    <section id="id4348339">
+      <title>WISKUNDE</title>
+      <para id="para-id4348339">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id21138543">
+      <title>Getalbegrip, Optelling en Aftrekking</title>
+      <para id="para-id21138543">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id26180572">
+      <title>Getalbegrip</title>
+      <para id="para-id26180572">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id6760400">
+      <title>OPVOEDERS AFDELING</title>
+      <para id="para-id6760400">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id8411377">
+      <title>Memorandum</title>
+      <list id="id6519616" list-type="bulleted">
+        <item>203; 190; 173; 208; 236; 222; 253; 471; 570; 459; 423; 472; 430; 343; 453; 357; 315</item>
+      </list>
+      <para id="id24628728">1 000 000</para>
+    </section>
+    <section id="id7010350">
+      <title>LEERDERS AFDELING</title>
+      <section id="id12270616">
+        <title>Inhoud</title>
+        <para id="para-id12270616">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id21868755">
+        <title>AKTIWITEIT: Om hoofrekene te kan doen [LU 1.8.2]</title>
+        <para id="para-id21868755">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id25861686">
+        <title>KOMPETISIE TYD!</title>
+        <list id="id25634471" list-type="bulleted">
+          <item>Kompeteer teen ’n maat en kyk wie kan die volgende pyldiagram eerste KORREK voltooi. Jy mag nie ’n sakrekenaar gebruik nie.</item>
+        </list>
+        <figure id="id12298904">
+          <media id="id12298904_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics1-6b4c.png" id="id12298904__onlineimage" height="357" width="599"/>
+          </media>
+        </figure>
+        <section id="id12613603">
+          <title>DIE MERKWAARDIGE MILJOEN!</title>
+          <para id="id19537782">Jy weet reeds:</para>
+          <para id="id27175003">10 x 10 = 100</para>
+          <para id="id27347288">100 x 10 = 1 000</para>
+          <para id="id17721033">1 000 x 10 = 10 000</para>
+          <para id="id16988478">10 000 x 10 = 100 000</para>
+          <para id="id12655246">Kyk goed na die patroon hierbo en vul in:</para>
+          <para id="id16222066">100 000 x 10 = ______________________________________________________</para>
+          <para id="id4559844"><emphasis effect="bold">Korrek!</emphasis> 100 000 x 10 = 1 000 000</para>
+          <para id="id7556531">Ons lees: 1 000 000 eenmiljoen</para>
+          <list id="id5585425" list-type="bulleted">
+            <item>In the notation column it looks like this:</item>
+          </list>
+          <table id="id3816056" summary="">
+            <tgroup cols="7">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <colspec colnum="3" colname="c3"/>
+              <colspec colnum="4" colname="c4"/>
+              <colspec colnum="5" colname="c5"/>
+              <colspec colnum="6" colname="c6"/>
+              <colspec colnum="7" colname="c7"/>
+              <tbody>
+                <row>
+                  <entry>Miljoen</entry>
+                  <entry>Honderdduisend</entry>
+                  <entry>Tienduisend</entry>
+                  <entry>Duisend</entry>
+                  <entry>Honderd</entry>
+                  <entry>Tien</entry>
+                  <entry>Een</entry>
+                </row>
+                <row>
+                  <entry>M</entry>
+                  <entry>HD</entry>
+                  <entry>TD</entry>
+                  <entry>D</entry>
+                  <entry>H</entry>
+                  <entry>T</entry>
+                  <entry>E</entry>
+                </row>
+                <row>
+                  <entry>1 000 000</entry>
+                  <entry>100 000</entry>
+                  <entry>10 000</entry>
+                  <entry>1 000</entry>
+                  <entry>100</entry>
+                  <entry>10</entry>
+                  <entry>1</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <list id="id25894606" list-type="bulleted">
+            <item>Kom ons lees die groot getalle</item>
+          </list>
+          <para id="id12598904">4 721 568 word gelees as 4 miljoen 721 duisend 568</para>
+          <para id="id7421633">Dus: viermiljoen sewehonderd een en twintig duisend vyfhonderd ag en sestig</para>
+        </section>
+        <section id="id3629016">
+          <title>LET OP!</title>
+          <para id="id23950462">Ons groepeer die syfers drie-drie van agter af. </para>
+          <para id="id15134127">Die eerste spasie van links sê vir ons hoeveel miljoene daar is. Die tweede spasie van links dui aan hoeveel duisende daar is.</para>
+          <para id="id13191513">Bv. 3 (miljoen) 268 (duisend) 413</para>
+        </section>
+      </section>
+    </section>
+    <section id="id20619120">
+      <title>Assessering</title>
+      <para id="id5473937"><emphasis><emphasis effect="italics">Leeruitkomste 1:</emphasis></emphasis>Die leerder is in staat om getalle en hul verwantskappe te herken, te beskryf en voor te stel. Hulle kan ook met bekwaamheid en vertroue tel, skat, bereken en kontroleer tydens die oplos van probleme.</para>
+      <para id="id15821993"><emphasis><emphasis effect="italics">Assesseringstandaard 1.9:</emphasis></emphasis> Dit is duidelik wanneer die leerder hoofberekeninge uitvoer wat die volgende behels:</para>
+      <para id="id27048166">1.9.1: optelling en aftrekking;</para>
+    </section>
+  </content>
+</document>

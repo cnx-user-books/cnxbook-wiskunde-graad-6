@@ -1,0 +1,93 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Om te ondersoek en te skat</title>
+  <metadata>
+  <md:content-id>m21696</md:content-id><md:title>Om te ondersoek en te skat</md:title>
+  <md:abstract/>
+  <md:uuid>b7714c35-c0a5-4f5d-8c26-1524e212a686</md:uuid>
+</metadata>
+
+<content>
+    <section id="id46767938">
+      <title>WISKUNDE</title>
+      <para id="para-id46767938">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id46768198">
+      <title>Meting en Tyd</title>
+      <para id="para-id46768198">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id46768143">
+      <title>Volume</title>
+      <para id="para-id46768143">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id46768325">
+      <title>OPVOEDERS AFDELING</title>
+      <para id="para-id46768325">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id46768062">
+      <title>Memorandum</title>
+      <para id="para-id46768062">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id46766910">
+      <title>LEERDERS AFDELING</title>
+      <para id="para-id46766910">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id46766917">
+      <title>Inhoud</title>
+      <para id="para-id46766917">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id46286721">
+      <title>AKTIWITEIT: Om te ondersoek en te skat [LU 1.6.2]</title>
+      <para id="id46286730">1. Jou opvoeder sal die nodige papier aan jou voorsien. Kyk goed na die diagram hieronder en trek dit dan presies net so oor. Kyk dan of jy jou eie kubus (vierkantige blokkie) kan bou.</para>
+      <figure id="id46287480">
+        <media id="id46287480_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics1-79f7.png" id="id46287480__onlineimage" height="240" width="171"/>
+        </media>
+      </figure>
+      <figure id="id46278977">
+        <media id="id46278977_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics2-4102.png" id="id46278977__onlineimage" height="113" width="131"/>
+        </media>
+      </figure>
+      <list id="id46286704" list-type="bulleted">
+        <item>Jy het nou ’n houer met die volgende afmetings:</item>
+      </list>
+      <para id="id46768303">1 cm by 1 cm by 1 cm</para>
+      <list id="id46767175" list-type="bulleted">
+        <item>Daarom sê ons die <emphasis effect="bold">volume</emphasis> van die houer is:</item>
+      </list>
+      <para id="id46767072">1 cm × 1 cm × 1 cm = 1 cm3</para>
+      <para id="id46767549">(een kubieke sentimeter)</para>
+      <para id="id46767906">volume = lengte × breedte × hoogte</para>
+      <para id="id46767880">2. Hoeveel van hierdie boksies (van 1 cm<sup>3</sup>) sal jy nodig hê om ’n kubus van 8 cm<sup>3</sup> te bou? (2 cm × 2 cm × 2 cm)</para>
+      <figure id="id46767627">
+        <media id="id46767627_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics3-b447.png" id="id46767627__onlineimage" height="125" width="129"/>
+        </media>
+      </figure>
+      <para id="id46768087">2.1 8 cm3 = (2 cm × 2 cm × 2 cm): ___________________  blokkies</para>
+      <para id="id46768220">2.2 27 cm3 = (3 cm × 3 cm × 3 cm): __________________  blokkies</para>
+      <para id="id46767959">2.3 64 cm3 = (4 cm × 4 cm × 4 cm): __________________  blokkies</para>
+      <para id="id46767856">2.4 125 cm3 = (5 cm × 5 cm × 5 cm): _________________  blokkies</para>
+    </section>
+    <section id="id46767752">
+      <title>Assessering</title>
+      <para id="id46767720"><emphasis><emphasis effect="italics">Leeruitkomste 4:</emphasis></emphasis>Die leerder is in staat om gepaste meeteenhede, instrumente en formules in ‘n verskeidenheid kontekste te gebruik.</para>
+      <para id="id46767836"><emphasis><emphasis effect="italics">Assesseringstandaard 4.8:</emphasis></emphasis> Dit is duidelik wanneer die leerder by benadering ondersoek en bepaal (alleen en/of as ‘n lid van ‘n groep of span):</para>
+      <para id="id46768011"><emphasis effect="bold">4.8.3: </emphasis>volume/kapasiteit van voorwerpe (deur dit te pak of te vul) ten einde reëls vir die berekening van volume van reghoekige prismas te ontwikkel.</para>
+    </section>
+  </content>
+</document>

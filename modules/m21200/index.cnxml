@@ -1,0 +1,143 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Om getalle te herken en voor te stel ten einde hulle te beskryf en te vergelyk</title>
+  <metadata>
+  <md:content-id>m21200</md:content-id><md:title>Om getalle te herken en voor te stel ten einde hulle te beskryf en te vergelyk</md:title>
+  <md:abstract/>
+  <md:uuid>6af0406f-fb1e-484f-8109-10b0030bdafd</md:uuid>
+</metadata>
+
+<content>
+    <section id="id43494266">
+      <title>WISKUNDE</title>
+      <para id="para-id43494266">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id45689937">
+      <title>Getalbegrip, Optelling en Aftrekking</title>
+      <para id="para-id45689937">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id44554304">
+      <title>Getalbegrip</title>
+      <para id="para-id44554304">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id45015403">
+      <title>OPVOEDERS AFDELING</title>
+      <para id="para-id45015403">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id45010031">
+      <title>Memorandum</title>
+      <para id="id44178236">2.1 Priemgetalle: 11; 13; 17; 19</para>
+      <para id="id45017807">2.2 Ewe Getalle: 8; 10; 12; 14</para>
+      <para id="id45947861">2.3 Veelvoude van 6: 6; 12; 18; 24; 30; 36</para>
+      <para id="id45692449">2.4 Telgetalle: 0; 1; 2; 3; 4; 5; 6</para>
+      <para id="id44985297">2.5 Faktore van 24: 1; 2; 3; 4; 6; 8; 12; 24</para>
+      <para id="id44986764">3.1 * 44</para>
+      <para id="id43897720">3.2 12</para>
+      <para id="id44990671">3.3 10</para>
+      <para id="id45004854">3.4 5</para>
+    </section>
+    <section id="id45009738">
+      <title>LEERDERS AFDELING</title>
+      <section id="id45004169">
+        <title>Inhoud</title>
+        <para id="para-id45004169">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id44179506">
+        <title>AKTIWITEIT: Om getalle te herken en voor te stel ten einde hulle te beskryf en te vergelyk [LU 1.3.6, LU 1.3.7]</title>
+        <para id="id44162848">1. Aan die begin van Graad 5 (Module 1) het jy deeglik gekyk na veelvoude, faktore en priemgetalle. Onthou jy nog wat elkeen is? Kom ons hersien! </para>
+        <para id="id44163919">Verduidelik aan ’n maat die verskil tussen ’n VEELVOUD, ’n FAKTOR en ’n PRIEMGETAL.</para>
+        <section id="id45014426">
+          <title>LET OP!</title>
+          <para id="id43560355">Veelvoude van 5 = 5 ; 10 ; 15 ; 20 ; ens.</para>
+          <para id="id43560159">Ons tel dus in vywe</para>
+          <para id="id45018783">Faktore kan presies in ’n getal indeel.</para>
+          <para id="id45013450">Die faktore van 12 = 1 ; 2 ; 3 ; 4 ; 6 ; 12</para>
+          <para id="id44988424">’n Priemgetal het slegs 2 verskillende faktore, </para>
+          <para id="id45003389">bv. 2 se faktore : 2 en 13 se faktore : 3 en 15 se faktore : 5 en 1 </para>
+        </section>
+        <section id="id45689158">
+          <title>ONTHOU JY NOG?</title>
+          <para id="id43560938">Jy kan die konstante funksie op jou sakrekenaar gebruik om die veelvoude van ’n getal te bereken! Bv., vir die veelvoude van 4, sleutel soos volg in:</para>
+          <para id="id45640764">4 + + = = = = = =</para>
+          <list id="id45689644" list-type="bulleted">
+            <item>Gebruik jou sakrekenaar om die veelvoude van 13, 15 en 24 te bepaal.</item>
+          </list>
+          <para id="id45013938">2. Trek lyne sodat elke beskrywing in kolom A pas by die getalle in kolom B:</para>
+          <table id="id46205779" summary="">
+            <tgroup cols="3">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <colspec colnum="3" colname="c3"/>
+              <tbody>
+                <row>
+                  <entry/>
+                  <entry>Kolom A</entry>
+                  <entry>Kolom B</entry>
+                </row>
+                <row>
+                  <entry>2.1</entry>
+                  <entry>Priemgetalle</entry>
+                  <entry>8 ; 10 ; 12 ; 14</entry>
+                </row>
+                <row>
+                  <entry>2.2</entry>
+                  <entry>Ewe getalle</entry>
+                  <entry>1 ; 2 ; 3 ; 4 ; 6 ; 8 ; 12 ; 24</entry>
+                </row>
+                <row>
+                  <entry>2.3</entry>
+                  <entry>Veelvoude van 6</entry>
+                  <entry>0 ; 1 ; 2 ; 3 ; 4 ; 5 ; 6</entry>
+                </row>
+                <row>
+                  <entry>2.4</entry>
+                  <entry>Telgetalle</entry>
+                  <entry>11 ; 13 ; 17 ; 19</entry>
+                </row>
+                <row>
+                  <entry>2.5</entry>
+                  <entry>Faktore van 24</entry>
+                  <entry>6 ; 12 ; 18 ; 24 ; 30 ; 36</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id43560833">3. Werk saam met ’n maat en los die volgende raaisels op:</para>
+        </section>
+        <section id="id44598513">
+          <title>WATTER GETAL IS EK?</title>
+          <para id="id44555762"><figure id="id44555764"><media id="id44555764_media" alt=""><image mime-type="image/png" src="../../media/graphics1-6478.png" id="id44555764__onlineimage" height="203" width="296"/></media></figure>3.1 </para>
+          <para id="id44558592">3.2</para>
+          <figure id="id43664919">
+            <media id="id43664919_media" alt="">
+              <image mime-type="image/png" src="../../media/graphics2-891f.png" id="id43664919__onlineimage" height="188" width="300"/>
+            </media>
+          </figure>
+          <para id="id44179009">3.3</para>
+          <figure id="id45017301">
+            <media id="id45017301_media" alt="">
+              <image mime-type="image/png" src="../../media/graphics3-074c.png" id="id45017301__onlineimage" height="200" width="316"/>
+            </media>
+          </figure>
+          <para id="id44550969"><figure id="id44550972"><media id="id44550972_media" alt=""><image mime-type="image/png" src="../../media/graphics4-aba8.png" id="id44550972__onlineimage" height="200" width="312"/></media></figure>3.4</para>
+        </section>
+      </section>
+    </section>
+    <section id="id44588770">
+      <title>Assessering</title>
+      <para id="id44597537"><emphasis><emphasis effect="italics">Leeruitkomste 1:</emphasis></emphasis>Die leerder is in staat om getalle en hul verwantskappe te herken, te beskryf en voor te stel. Hulle kan ook met bekwaamheid en vertroue tel, skat, bereken en kontroleer tydens die oplos van probleme.</para>
+      <para id="id44589722"><emphasis><emphasis effect="italics">Assesseringstandaard 1.3:</emphasis></emphasis> Dit is duidelik wanneer die leerder die volgende ware getalle herken, klassifiseer en voorstel om hulle te beskryf en te vergelyk</para>
+      <para id="id43898784"><emphasis effect="bold">1.3.6:</emphasis> veelvoude en faktore van minstens enige 2- en 3-syferheelgetal;</para>
+      <para id="id43559954"><emphasis effect="bold">1.3.7:</emphasis> priemgetalle tot minstens 100.</para>
+    </section>
+  </content>
+</document>

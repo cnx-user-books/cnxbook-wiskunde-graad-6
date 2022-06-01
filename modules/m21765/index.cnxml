@@ -1,0 +1,166 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Om die moontlikheid van gebeure in die daaglikse lewe te voorspel</title>
+  <metadata>
+  <md:content-id>m21765</md:content-id><md:title>Om die moontlikheid van gebeure in die daaglikse lewe te voorspel</md:title>
+  <md:abstract/>
+  <md:uuid>8397eb7c-e639-4f2a-8b02-c9e15516a0b9</md:uuid>
+</metadata>
+
+<content>
+    <section id="id7831293">
+      <title>WISKUNDE</title>
+      <para id="para-id7831293">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id17701823">
+      <title>Meetkunde, Datahantering en Waarskynlikheid</title>
+      <para id="para-id17701823">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id17750575">
+      <title>Waarskynlikheid</title>
+      <para id="para-id17750575">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id11977577">
+      <title>OPVOEDERS AFDELING</title>
+      <para id="para-id11977577">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id17709765">
+      <title>Memorandum</title>
+      <para id="id17303647">1.</para>
+      <para id="id16518170">1.1 Moontlik</para>
+      <para id="id17023683">1.2 Moontlik</para>
+      <para id="id17078455">1.3 Seker</para>
+      <para id="id17024701">1.4 Moontlik</para>
+      <para id="id17284931">1.5 Onmoontlik</para>
+      <para id="id17633034">1.6 Moontlik</para>
+      <para id="id12804397">1.7 Onmoontlik</para>
+      <para id="id10534469">1.8 Onmoontlik</para>
+      <para id="id17607947">1.9 Seker</para>
+      <para id="id17036846">1.10 Moontlik</para>
+    </section>
+    <section id="id16371942">
+      <title>LEERDERS AFDELING</title>
+      <para id="para-id16371942">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id17053737">
+      <title>Inhoud</title>
+      <section id="id17029066">
+        <title>AKTIWITEIT: Om die moontlikheid van gebeure in die daaglikse lewe te voorspel [LU 5.8]</title>
+        <para id="id17075497">1. Werk saam met ‘n maat. Besluit of die volgende <emphasis effect="bold">seker, moontlik of onmoontlik</emphasis> is. Maak net ‘n regmerkie in die toepaslike kolom:</para>
+        <table id="id17700258" summary="">
+          <tgroup cols="5">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <tbody>
+              <row>
+                <entry/>
+                <entry/>
+                <entry>Seker</entry>
+                <entry>Moontlik</entry>
+                <entry>Onmoontlik</entry>
+              </row>
+              <row>
+                <entry>1.1</entry>
+                <entry>Dit gaan Woensdag reën.</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>1.2</entry>
+                <entry>As jy ‘n dobbelsteen gooi, sal dit op die 3 val.</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>1.3.</entry>
+                <entry>Sondag kom voor Maandag.</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>1.4</entry>
+                <entry>Die netbalspan sal hul wedstryd wen.</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>1.5</entry>
+                <entry>Jy kan binne 15 minute van Durban na Kaapstad vlieg.</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>1.6</entry>
+                <entry>Ek sal volpunte in my volgende toets kry.</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>1.7</entry>
+                <entry>Daar sal volgende jaar geen skoolvakansie wees nie.</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>1.8</entry>
+                <entry>As ek weer verjaar, is ek 10 jaar oud.</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>1.9</entry>
+                <entry>Donderdag kom na Woensdag.</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>1.10</entry>
+                <entry>Ek gaan R1 000 wen.</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id17730410">HET JY GEWEET?</para>
+        <para id="id14154876">Jy was eintlik besig om die <emphasis effect="bold">waarskynlikheid</emphasis> dat iets sou gebeur of nie sou gebeur nie, hierbo te skat. Ons kan syfers aan die skatting koppel.</para>
+        <para id="id16327494">- ‘n Waarskynlikheid van <emphasis effect="bold">een</emphasis> beteken dat die gebeurtenis <emphasis effect="bold">beslis sal plaasvind</emphasis>.</para>
+        <para id="id17092645">- ‘n Waarskynlikheid van <emphasis effect="bold">nul</emphasis> beteken dat die gebeurtenis <emphasis effect="bold">nooit sal plaasvind nie</emphasis>.</para>
+        <para id="id14685646">- Ons kan die waarskynlikheid dat iets sal gebeur, soos volg bepaal:</para>
+        <para id="id9508188">Die aantal kere wat die gebeurtenis kan plaasvind</para>
+        <para id="id17640806">Totale aantal moontlikhede</para>
+        <para id="id17743894">Die waarskynlikheid om ‘n rooi bal uit ‘n houer met 2 rooi en 3 blou balle te trek, is</para>
+        <para id="id12640766">Dus: </para>
+        <para id="id16909224">(daar is 2 rooi balle)</para>
+        <para id="id17787050">(daar is 5 balle altesaam)</para>
+      </section>
+    </section>
+    <section id="id17633025">
+      <title>Assessering</title>
+      <para id="id7739172"><emphasis><emphasis effect="italics">Leeruitkomste 5:</emphasis></emphasis>Die leerder is in staat om data te versamel, op te som, voor te stel en krities te ontleed om gevolgtrekkings en voorspellings te maak, en om toevallige variasies te interpreteer en te bepaal.</para>
+      <para id="id17743792"><emphasis><emphasis effect="italics">Assesseringstandaard 5.8:</emphasis></emphasis> Dit is duidelik wanneer die leerder die verskeidenheid van gebeurtenisse in die daaglikse lewe wat op waarneming gegrond is, vergelyk en hulle op ‘n skaal van ‘onmoontlik’ tot ‘definitief’ plaas.</para>
+    </section>
+  </content>
+</document>

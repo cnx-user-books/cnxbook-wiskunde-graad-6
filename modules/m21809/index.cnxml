@@ -1,0 +1,153 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Om eenvoudige vrae te vra en databronne te identifiseer</title>
+  <metadata>
+  <md:content-id>m21809</md:content-id><md:title>Om eenvoudige vrae te vra en databronne te identifiseer</md:title>
+  <md:abstract/>
+  <md:uuid>e4a65326-3fda-4798-a87f-a8abf11bca29</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1167251893088">
+      <title>WISKUNDE</title>
+      <para id="para-id1167251893088">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1167252172152">
+      <title>Meetkunde, Datahantering en Waarskynlikheid</title>
+      <para id="para-id1167252172152">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1167253429187">
+      <title>Datahantering</title>
+      <para id="para-id1167253429187">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1167258122101">
+      <title>OPVOEDERS AFDELING</title>
+      <para id="para-id1167258122101">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1167254372382">
+      <title>Memorandum</title>
+      <para id="para-id1167254372382">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1167253336511">
+      <title>LEERDERS AFDELING</title>
+      <para id="para-id1167253336511">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1167258432174">
+      <title>Inhoud</title>
+      <section id="id1167258546274">
+        <title>AKTIWITEIT: Om eenvoudige vrae te vra en databronne te identifiseer [LU 5.1]</title>
+        <para id="para-id1167258546274">
+          <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id1167256379629">
+        <title>Om eenvoudige tabelle te gebruik om data te versamel en vrae te beantwoord [LU 5.2]</title>
+        <para id="para-id1167256379629">
+          <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id1167252039109">
+        <title>Om data te organiseer en op te teken [LU 5.4]</title>
+        <para id="para-id1167252039109">
+          <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id1167254667663">
+        <title>Om die ongegroepeerde numeriese data te ondersoek en die modus, median en rekenkundige gemiddelde te bepaal [LU 5.5]</title>
+        <para id="para-id1167254667663">
+          <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id1167252406191">
+        <title>Om ‘n verskeidenheid van grafieke te teken [LU 5.6]</title>
+        <para id="para-id1167252406191">
+          <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id1167255446616">
+        <title>Om data krities te lees en te interpreter [LU 5.7.2]</title>
+        <para id="id1167257839383">***Hierdie is ‘n taak vir jou portefeulje. Lees die opdragte baie goed deur voordat jy begin!</para>
+        <para id="id1167252059013">1. Maak ‘n opname van die grootte van die skoolskoene van al die leerders in enige klas in die skool (behalwe jou eie!).</para>
+        <para id="id1167252336704">2. Stel die gegewens netjies in ‘n tabel voor.</para>
+        <para id="id1167257926494">3. Stel nou die gegewens deur middel van ‘n grafiek van jou keuse voor.</para>
+        <para id="id1167252143456">4. Bepaal die modus van die data.</para>
+        <para id="id1167252312156">5. Bepaal die mediaan van die data.</para>
+        <para id="id1167254531023">6. Bepaal die rekenkundige gemiddelde.</para>
+        <para id="id1167258209421">7. Skryf enige interessante gegewens omtrent die data wat jy ingesamel het, neer.</para>
+        <para id="id1167253493364">Assessering: Datahantering</para>
+        <table id="id1167253323504" summary="">
+          <tgroup cols="5">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <tbody>
+              <row>
+                <entry>KRITERIA</entry>
+                <entry namest="c2" nameend="c5">KODE</entry>
+              </row>
+              <row>
+                <entry/>
+                <entry>1</entry>
+                <entry>2</entry>
+                <entry>3</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>Volledigheid</entry>
+                <entry>Feitlik geen opdrag is uitgevoer nie.</entry>
+                <entry>Die helfte van die opdragte is uitgevoer.</entry>
+                <entry>Een of twee opdragte is nie uitgevoer nie.</entry>
+                <entry>Al die opdragte is uitgevoer.</entry>
+              </row>
+              <row>
+                <entry>Netheid en organisasie</entry>
+                <entry>Werk is slordig en ongeorganiseerd.</entry>
+                <entry>Dit is georganiseerd, maar moeilik leesbaar.</entry>
+                <entry>Dit is netjies en georganiseerd, maklik leesbaar.</entry>
+                <entry>Dit is netjiese, duidelik uiteengesette werk; duidelik leesbaar.</entry>
+              </row>
+              <row>
+                <entry>Grafiek</entry>
+                <entry>Interpretasie is feitlik onmoontlik.</entry>
+                <entry>Data is ongeor-ganiseerd en interpretasie moeilik.</entry>
+                <entry>Kan grafiek interpreteer, hoewel nie 100% korrek nie.</entry>
+                <entry>Die grafiek is georden en data is sinvol aangebied. Maklik om te interpreteer.</entry>
+              </row>
+              <row>
+                <entry>Korrektheid van berekenings</entry>
+                <entry>Al die antwoorde is verkeerd bereken.</entry>
+                <entry>Baie foute is begaan.</entry>
+                <entry>Min foute is begaan.</entry>
+                <entry>Antwoorde is almal korrek bereken.</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
+    </section>
+    <section id="id1167252250219">
+      <title>Assessering</title>
+      <para id="id1167256479641"><emphasis><emphasis effect="italics">Leeruitkomste 5:</emphasis></emphasis>Die leerder is in staat om data te versamel, op te som, voor te stel en krities te ontleed om gevolgtrekkings en voorspellings te maak, en om toevallige variasies te interpreteer en te bepaal.</para>
+      <para id="id1167253481608"><emphasis><emphasis effect="italics">Assesseringstandaard 5.1:</emphasis></emphasis> Dit is duidelik wanneer die leerder eenvoudige vrae stel oor sy/haar eie skool en gesinsomgewing, en gepaste databronne vind ten einde menseregte, sosiale, politieke, kulturele, omgewings- en ekonomiese kwessies in daardie omgewing die hoof te bied;</para>
+      <para id="id1167257934817"><emphasis><emphasis effect="italics">Assesseringstandaard 5.2:</emphasis></emphasis> Dit is duidelik wanneer die leerder eenvoudige dataversamelingsvelle (wat tellings vereis) en eenvoudige vraelyste (met ja/nee tipe antwoorde) gebruik om data te versamel (alleen en/of as ‘n lid van ‘n groep of span) ten einde vrae te beantwoord wat deur die onderwyser, self of die groep gevra word;</para>
+      <para id="id1167250209787"><emphasis><emphasis effect="italics">Assesseringstandaard 5.4:</emphasis></emphasis> Dit is duidelik wanneer die leerder data organiseer en aanteken deur gebruik te maak van tellings en tabelle.</para>
+      <para id="id1167254393250"><emphasis><emphasis effect="italics">Assesseringstandaard 5.5:</emphasis></emphasis> Dit is duidelik wanneer die leerder ongegroepeerde numeriese data ondersoek om die telling (modus) wat die meeste voorkom, en die middelwaarde (mediaan) van die datastel te bepaal, om sodoende sentrale neigings te beskryf.</para>
+      <para id="id1167258141265"><emphasis><emphasis effect="italics">Assesseringstandaard 5.6:</emphasis></emphasis> Dit is duidelik wanneer die leerder ‘n verskeidenheid van grafieke met die hand of tegnologies teken om data voor te stel en te interpreteer (gegroepeer of ongegroepeer).</para>
+      <para id="id1167253429115"><emphasis><emphasis effect="italics">Assesseringstandaard 5.7:</emphasis></emphasis> Dit is duidelik wanneer die leerder data wat op verskillende wyses voorgestel word (insluitend eie voorstellings, mediavoorstellings – woorde, grafieke, sirkeldiagramme), krities lees en interpreteer om sodoende gevolgtrekkings en voorspellings te maak wat sensitief is teenoor die rol van:</para>
+      <para id="id1167252313556">5.7.2: kategorieë binne die data (bv. ouderdom, geslag, ras).</para>
+    </section>
+  </content>
+</document>
